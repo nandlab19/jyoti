@@ -1,0 +1,678 @@
+{
+  "checks": 84,
+  "failures": [],
+  "results": [
+    {
+      "width": 360,
+      "path": "/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/work/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/services/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/services/web/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/services/data/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/services/creative/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/work/fieldwork/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/work/operations-pulse/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/work/forma/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/about/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/start-project/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/privacy/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/terms/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 360,
+      "path": "/academy/",
+      "overflow": false,
+      "actual": 345,
+      "client": 345,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/work/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/services/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/services/web/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/services/data/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/services/creative/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/work/fieldwork/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/work/operations-pulse/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/work/forma/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/about/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/start-project/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/privacy/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/terms/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 390,
+      "path": "/academy/",
+      "overflow": false,
+      "actual": 375,
+      "client": 375,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/work/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/services/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/services/web/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/services/data/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/services/creative/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/work/fieldwork/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/work/operations-pulse/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/work/forma/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/about/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/start-project/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/privacy/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/terms/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 768,
+      "path": "/academy/",
+      "overflow": false,
+      "actual": 753,
+      "client": 753,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/work/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/services/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/services/web/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/services/data/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/services/creative/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/work/fieldwork/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/work/operations-pulse/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/work/forma/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/about/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/start-project/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/privacy/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/terms/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "path": "/academy/",
+      "overflow": false,
+      "actual": 1009,
+      "client": 1009,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/work/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/services/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/services/web/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/services/data/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/services/creative/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/work/fieldwork/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/work/operations-pulse/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/work/forma/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/about/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/start-project/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/privacy/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/terms/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "path": "/academy/",
+      "overflow": false,
+      "actual": 1425,
+      "client": 1425,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/work/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/services/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/services/web/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/services/data/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/services/creative/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/work/fieldwork/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/work/operations-pulse/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/work/forma/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/about/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/start-project/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/privacy/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/terms/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "path": "/academy/",
+      "overflow": false,
+      "actual": 1905,
+      "client": 1905,
+      "font": true
+    }
+  ]
+}

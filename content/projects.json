@@ -1,0 +1,4883 @@
+[
+  {
+    "slug": "fieldwork",
+    "title": "Fieldwork",
+    "subtitle": "A clearer path from expertise to inquiry.",
+    "category": "Web",
+    "label": "Concept / Demo",
+    "status": "concept",
+    "published": true,
+    "type": "Professional services website",
+    "problem": "A fictional consultancy needs to explain a complex service and help prospective clients take the next step without navigating a maze of pages.",
+    "goal": "Make the offer understandable, show a focused service journey and keep the experience useful on a small screen.",
+    "approach": "An editorial hierarchy leads from a concise proposition to service details and a brief builder. A responsive preview demonstrates how the same content adapts across devices.",
+    "deliverables": [
+      "Responsive concept landing page",
+      "Service discovery and clear calls to action",
+      "Desktop and mobile preview controls"
+    ],
+    "technology": "Semantic HTML, responsive CSS, vanilla JavaScript",
+    "outcome": "Not measured. This is an original illustrative concept, not commissioned client work."
+  },
+  {
+    "slug": "operations-pulse",
+    "title": "Operations Pulse",
+    "subtitle": "From scattered numbers to a useful view.",
+    "category": "Data",
+    "label": "Concept / Demo",
+    "status": "concept",
+    "published": true,
+    "type": "Interactive MIS dashboard",
+    "problem": "A fictional operations team needs a consistent view of orders, revenue and contribution across regions and reporting periods.",
+    "goal": "Let a decision-maker explore a small dataset, understand exactly what each measure represents and inspect the underlying records.",
+    "approach": "A single synthetic dataset drives the KPIs, monthly revenue chart and accessible table. Period and region controls recalculate every view; CSV export makes the filtered records portable.",
+    "deliverables": [
+      "Region and quarter filters",
+      "Calculated revenue, orders and margin",
+      "Accessible source table and CSV export"
+    ],
+    "technology": "JavaScript aggregation, semantic tables, CSS visualization",
+    "outcome": "Not measured. All figures are synthetic and are not NAND Lab or client business results."
+  },
+  {
+    "id": "256920529",
+    "slug": "creative/256920529-gujarati-navratri-cultural-motion-design",
+    "title": "Gujarati Navratri Cultural Motion Design",
+    "subtitle": "A Navratri motion piece builds its atmosphere through shehnai and dholak before moving into a Gujarati Garba celebration.",
+    "category": "Creative",
+    "label": "Case study",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/256920529/Gujarati-Navratri-Cultural-Motion-Design",
+    "publicationDate": "October 10th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Motion Graphics",
+      "Graphic Design",
+      "Visualization"
+    ],
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe After Effects",
+      "ChatGPT"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-256920529.png",
+      "bytes": 369901,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/5f-TJ27AowS/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "256920529",
+      "title": "Gujarati Navratri Cultural Motion Design",
+      "summary": "A Navratri motion piece builds its atmosphere through shehnai and dholak before moving into a Gujarati Garba celebration.",
+      "discipline": "Cultural motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "A festive film connecting Gujarati music, culture and visual storytelling.",
+      "designFocus": "Musical rhythm guides the emotional progression of the film.",
+      "challenge": "Build an emotional introduction before the energy of the Garba sequence.",
+      "approach": "The opening moves from atmospheric shehnai to rhythmic dholak, then into a traditional Gujarati Garba sequence.",
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "case-study",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/256920529/Gujarati-Navratri-Cultural-Motion-Design",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the creator’s published project description. Process is summarized only where explicitly documented.",
+      "availableTools": [
+        "Adobe Photoshop",
+        "Adobe After Effects",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Motion Graphics",
+        "Graphic Design",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "256911059",
+    "slug": "creative/256911059-predator-helios-neo-16-gaming-tech-visual-campaign",
+    "title": "Predator Helios Neo 16 — Gaming Tech Visual Campaign",
+    "subtitle": "A concept campaign for the Predator Helios Neo 16 brings gaming technology into a bold graphic and cinematic visual language.",
+    "category": "Creative",
+    "label": "Case study",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/256911059/Predator-Helios-Neo-16-Gaming-Tech-Visual-Campaign",
+    "publicationDate": "October 10th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Premiere Pro",
+      "Adobe After Effects",
+      "Adobe Illustrator"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-256911059.png",
+      "bytes": 259252,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/256911059-01.webp",
+        "bytes": 187848,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256911059-02.webp",
+        "bytes": 114094,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256911059-03.webp",
+        "bytes": 199978,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256911059-04.webp",
+        "bytes": 131634,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256911059-05.webp",
+        "bytes": 94192,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256911059-06.webp",
+        "bytes": 191306,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256911059-07.webp",
+        "bytes": 158396,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256911059-08.webp",
+        "bytes": 150322,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      }
+    ],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/KUisLf8arjF/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "256911059",
+      "title": "Predator Helios Neo 16 — Gaming Tech Visual Campaign",
+      "summary": "A concept campaign for the Predator Helios Neo 16 brings gaming technology into a bold graphic and cinematic visual language.",
+      "discipline": "Concept campaign / product visuals",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "A self-described visual campaign concept for the Predator Helios Neo 16 gaming laptop.",
+      "designFocus": "High contrast, oversized condensed typography, neon-green accents, layered compositions and dramatic product imagery create a shared campaign aesthetic.",
+      "challenge": "Translate technical product features into an engaging, immersive visual campaign.",
+      "approach": "The published process combines typography, AI-assisted visuals, real-footage integration, motion design, video editing and cinematic colour finishing.",
+      "deliverables": [
+        "8 published project images",
+        "1 embedded video"
+      ],
+      "caseStudyType": "case-study",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/256911059/Predator-Helios-Neo-16-Gaming-Tech-Visual-Campaign",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the creator’s published project description. Process is summarized only where explicitly documented.",
+      "availableTools": [
+        "Adobe Photoshop",
+        "Adobe Premiere Pro",
+        "Adobe After Effects",
+        "Adobe Illustrator"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "256851649",
+    "slug": "creative/256851649-navratri-2026-ai-design-visual-series",
+    "title": "NAVRATRI 2026 — AI × Design Visual Series",
+    "subtitle": "Nine Navratri posters combine AI-assisted imagery and Photoshop into a devotional visual series with a contemporary design direction.",
+    "category": "Creative",
+    "label": "Case study",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/256851649/NAVRATRI-2026-AI-Design-Visual-Series",
+    "publicationDate": "October 8th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Creative Direction",
+      "Typography"
+    ],
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "ChatGPT"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-256851649.png",
+      "bytes": 649727,
+      "contentType": "image/png",
+      "width": 1080,
+      "height": 1350,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/256851649-01.webp",
+        "bytes": 361864,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256851649-02.webp",
+        "bytes": 337964,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256851649-03.webp",
+        "bytes": 359116,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256851649-04.webp",
+        "bytes": 365464,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256851649-05.webp",
+        "bytes": 325170,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256851649-06.webp",
+        "bytes": 328326,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256851649-07.webp",
+        "bytes": 320768,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256851649-08.webp",
+        "bytes": 330596,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/256851649-09.webp",
+        "bytes": 329200,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "256851649",
+      "title": "NAVRATRI 2026 — AI × Design Visual Series",
+      "summary": "Nine Navratri posters combine AI-assisted imagery and Photoshop into a devotional visual series with a contemporary design direction.",
+      "discipline": "Festive poster series",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "A nine-day Navratri visual series combining AI-assisted image generation, research and Photoshop.",
+      "designFocus": "A consistent portrait-led composition combines white negative space, pigment textures, editorial typography and symbolic icons, while colour and mood change with each day.",
+      "challenge": "Create devotional posters with a contemporary visual language across all nine days.",
+      "approach": "The creator researched the Goddess, symbolism, colour, icons and devotional message for each day, using that research to guide prompts and art direction.",
+      "deliverables": [
+        "9 published project images"
+      ],
+      "caseStudyType": "case-study",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/256851649/NAVRATRI-2026-AI-Design-Visual-Series",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the creator’s published project description. Process is summarized only where explicitly documented.",
+      "availableTools": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Creative Direction",
+        "Typography"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "256782985",
+    "slug": "creative/256782985-happy-canada-day-the-story-of-canada",
+    "title": "Happy Canada Day — The Story of Canada",
+    "subtitle": "A Canada Day motion project brings historical references, architecture and landscapes together in a short cinematic narrative.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/256782985/Happy-Canada-Day-The-Story-of-Canada",
+    "publicationDate": "October 7th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Freepik",
+      "ChatGPT"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-256782985.png",
+      "bytes": 186401,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/-LYgcq7a9Ue/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "256782985",
+      "title": "Happy Canada Day — The Story of Canada",
+      "summary": "A Canada Day motion project brings historical references, architecture and landscapes together in a short cinematic narrative.",
+      "discipline": "Cultural motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Happy Canada Day — The Story of Canada”.",
+      "designFocus": "Place, history and landscape",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/256782985/Happy-Canada-Day-The-Story-of-Canada",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Freepik",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "256746563",
+    "slug": "creative/256746563-the-day-chaos-stopped-ai-motion-graphics",
+    "title": "The Day Chaos Stopped — AI + Motion Graphics",
+    "subtitle": "A short AI and motion graphics narrative explores a busy environment interrupted by a sudden moment of stillness.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/256746563/The-Day-Chaos-Stopped-AI-Motion-Graphics",
+    "publicationDate": "October 6th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Freepik",
+      "ChatGPT"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-256746563.png",
+      "bytes": 294078,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/LGWZirysZSu/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "256746563",
+      "title": "The Day Chaos Stopped — AI + Motion Graphics",
+      "summary": "A short AI and motion graphics narrative explores a busy environment interrupted by a sudden moment of stillness.",
+      "discipline": "AI-assisted motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “The Day Chaos Stopped — AI + Motion Graphics”.",
+      "designFocus": "The shift from activity to stillness",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/256746563/The-Day-Chaos-Stopped-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Freepik",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "256676145",
+    "slug": "creative/256676145-the-secret-life-of-ingredients-ai-motion-graphics",
+    "title": "The Secret Life of Ingredients — AI + Motion Graphics",
+    "subtitle": "Everyday ingredients become the subject of a cinematic motion experiment set in a simple kitchen environment.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/256676145/The-Secret-Life-of-Ingredients-AI-Motion-Graphics",
+    "publicationDate": "October 5th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Freepik",
+      "ChatGPT"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-256676145.png",
+      "bytes": 190371,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/57iEyMFZSzE/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "256676145",
+      "title": "The Secret Life of Ingredients — AI + Motion Graphics",
+      "summary": "Everyday ingredients become the subject of a cinematic motion experiment set in a simple kitchen environment.",
+      "discipline": "AI-assisted motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “The Secret Life of Ingredients — AI + Motion Graphics”.",
+      "designFocus": "An ordinary setting becomes a cinematic subject",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/256676145/The-Secret-Life-of-Ingredients-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Freepik",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "256501245",
+    "slug": "creative/256501245-how-i-made-this-smooth-ai-video-ai-motion-graphics",
+    "title": "How I Made This Smooth AI Video — AI + Motion Graphics",
+    "subtitle": "A behind-the-scenes project follows the transformation of an AI-generated visual into a smooth cinematic motion sequence.",
+    "category": "Creative",
+    "label": "Case study",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/256501245/How-I-Made-This-Smooth-AI-Video-AI-Motion-Graphics",
+    "publicationDate": "October 1st 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Motion Graphics",
+      "Graphic Design",
+      "Visualization"
+    ],
+    "tools": [
+      "Adobe Photoshop",
+      "Freepik",
+      "Adobe Express",
+      "ChatGPT",
+      "Adobe After Effects"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-256501245.png",
+      "bytes": 290516,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/JBkyBgnB8ZF/embed?api_key=behance1&bgcolor=%23191919",
+      "https://www-ccv.adobe.io/v1/player/ccv/SdiYQDuSYzi/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "256501245",
+      "title": "How I Made This Smooth AI Video — AI + Motion Graphics",
+      "summary": "A behind-the-scenes project follows the transformation of an AI-generated visual into a smooth cinematic motion sequence.",
+      "discipline": "Motion design / process breakdown",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "A behind-the-scenes breakdown of an AI-assisted cinematic motion workflow.",
+      "designFocus": "The breakdown connects the generated starting image to the finished moving sequence.",
+      "challenge": "Develop a complete motion sequence with visual consistency, controlled movement, timing and transitions.",
+      "approach": "Freepik AI supplied the initial visual, with creative development supported by ChatGPT. Photoshop and Adobe Express prepared the artwork before layered animation, camera movement, timing and effects in After Effects.",
+      "deliverables": [
+        "2 embedded videos"
+      ],
+      "caseStudyType": "case-study",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/256501245/How-I-Made-This-Smooth-AI-Video-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the creator’s published project description. Process is summarized only where explicitly documented.",
+      "availableTools": [
+        "Adobe Photoshop",
+        "Freepik",
+        "Adobe Express",
+        "ChatGPT",
+        "Adobe After Effects"
+      ],
+      "categories": [
+        "Motion Graphics",
+        "Graphic Design",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "256269389",
+    "slug": "creative/256269389-nothing-should-stay-frozen-ai-motion-graphics",
+    "title": "Nothing Should Stay Frozen — AI + Motion Graphics",
+    "subtitle": "A surreal motion experiment contrasts a frozen environment with movement, transformation and change.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/256269389/Nothing-Should-Stay-Frozen-AI-Motion-Graphics",
+    "publicationDate": "September 26th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "ChatGPT",
+      "Freepik"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-256269389.png",
+      "bytes": 659831,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/7zexssjNXye/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "256269389",
+      "title": "Nothing Should Stay Frozen — AI + Motion Graphics",
+      "summary": "A surreal motion experiment contrasts a frozen environment with movement, transformation and change.",
+      "discipline": "AI-assisted motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Nothing Should Stay Frozen — AI + Motion Graphics”.",
+      "designFocus": "Stillness, movement and transformation",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/256269389/Nothing-Should-Stay-Frozen-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "ChatGPT",
+        "Freepik"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "256269289",
+    "slug": "creative/256269289-reservation-before-death-ai-motion-graphics",
+    "title": "Reservation Before Death — AI + Motion Graphics",
+    "subtitle": "A short cinematic narrative uses AI-assisted visuals and motion to explore time, urgency and everyday moments.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/256269289/Reservation-Before-Death-AI-Motion-Graphics",
+    "publicationDate": "September 26th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Freepik",
+      "ChatGPT"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-256269289.png",
+      "bytes": 672852,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/SEo58KxaW4N/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "256269289",
+      "title": "Reservation Before Death — AI + Motion Graphics",
+      "summary": "A short cinematic narrative uses AI-assisted visuals and motion to explore time, urgency and everyday moments.",
+      "discipline": "AI-assisted motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Reservation Before Death — AI + Motion Graphics”.",
+      "designFocus": "Time and urgency in a visual story",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/256269289/Reservation-Before-Death-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Freepik",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "256091559",
+    "slug": "creative/256091559-take-summer-back-part-02-ai-motion-graphics",
+    "title": "Take Summer Back — Part 02 | AI + Motion Graphics",
+    "subtitle": "The second Take Summer Back film revisits carefree summer moments through a nostalgic, cinematic motion treatment.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/256091559/Take-Summer-Back-Part-02-AI-Motion-Graphics",
+    "publicationDate": "September 22nd 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Freepik",
+      "ChatGPT"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-256091559.png",
+      "bytes": 683465,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/3YdE3rFaH_u/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "256091559",
+      "title": "Take Summer Back — Part 02 | AI + Motion Graphics",
+      "summary": "The second Take Summer Back film revisits carefree summer moments through a nostalgic, cinematic motion treatment.",
+      "discipline": "AI-assisted motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Take Summer Back — Part 02 | AI + Motion Graphics”.",
+      "designFocus": "A continuation of the summer series",
+      "challenge": null,
+      "approach": "The creator lists AI visuals, Photoshop, compositing, After Effects and motion design as the production sequence.",
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/256091559/Take-Summer-Back-Part-02-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Freepik",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "256091075",
+    "slug": "creative/256091075-take-summer-back-ai-motion-graphics",
+    "title": "Take Summer Back — AI + Motion Graphics",
+    "subtitle": "A nostalgic short-form motion project revisits the feeling of carefree summer moments.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/256091075/Take-Summer-Back-AI-Motion-Graphics",
+    "publicationDate": "September 22nd 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Freepik",
+      "ChatGPT"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-256091075.png",
+      "bytes": 674154,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/W3-k9IhV5Dz/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "256091075",
+      "title": "Take Summer Back — AI + Motion Graphics",
+      "summary": "A nostalgic short-form motion project revisits the feeling of carefree summer moments.",
+      "discipline": "AI-assisted motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Take Summer Back — AI + Motion Graphics”.",
+      "designFocus": "Summer nostalgia in a moving sequence",
+      "challenge": null,
+      "approach": "The published workflow starts with an AI visual, then moves through Photoshop, compositing and motion design.",
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/256091075/Take-Summer-Back-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Freepik",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "255964787",
+    "slug": "creative/255964787-the-day-chaos-stopped-ai-motion-graphics",
+    "title": "The Day Chaos Stopped — AI + Motion Graphics",
+    "subtitle": "An AI-generated still becomes a cinematic motion experiment through composition, camera movement, timing and animation.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/255964787/The-Day-Chaos-Stopped-AI-Motion-Graphics",
+    "publicationDate": "September 19th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Freepik",
+      "ChatGPT"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-255964787.png",
+      "bytes": 641473,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/Vt9MK9r6tkb/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "255964787",
+      "title": "The Day Chaos Stopped — AI + Motion Graphics",
+      "summary": "An AI-generated still becomes a cinematic motion experiment through composition, camera movement, timing and animation.",
+      "discipline": "AI-assisted motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “The Day Chaos Stopped — AI + Motion Graphics”.",
+      "designFocus": "Giving a static composition a sense of unfolding action",
+      "challenge": null,
+      "approach": "The creator describes transforming a static AI image through composition, camera movement, timing and motion design.",
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/255964787/The-Day-Chaos-Stopped-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Freepik",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "255926343",
+    "slug": "creative/255926343-fifa-world-cup-intro-ai-motion-graphics",
+    "title": "FIFA World Cup Intro — AI + Motion Graphics",
+    "subtitle": "A FIFA World Cup-inspired intro explores a bold cinematic direction using AI-generated imagery, compositing and motion graphics.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/255926343/FIFA-World-Cup-Intro-AI-Motion-Graphics",
+    "publicationDate": "September 18th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "ChatGPT",
+      "Freepik"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-255926343.png",
+      "bytes": 662533,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/4MnTRd4JZ8-/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "255926343",
+      "title": "FIFA World Cup Intro — AI + Motion Graphics",
+      "summary": "A FIFA World Cup-inspired intro explores a bold cinematic direction using AI-generated imagery, compositing and motion graphics.",
+      "discipline": "Sports motion concept",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “FIFA World Cup Intro — AI + Motion Graphics”.",
+      "designFocus": "A sports-inspired cinematic intro",
+      "challenge": null,
+      "approach": "AI-generated imagery is combined with traditional compositing and motion graphics.",
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/255926343/FIFA-World-Cup-Intro-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "ChatGPT",
+        "Freepik"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "255872283",
+    "slug": "creative/255872283-mahaa-shivratri-trend-ai-motion-graphics",
+    "title": "Mahaa Shivratri Trend × AI & Motion Graphics",
+    "subtitle": "A Mahaa Shivratri experiment combines AI-generated imagery and motion graphics in a culturally inspired digital piece.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/255872283/Mahaa-Shivratri-Trend-AI-Motion-Graphics",
+    "publicationDate": "September 17th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "ChatGPT",
+      "Freepik"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-255872283.png",
+      "bytes": 648913,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/QCusVbig8xv/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "255872283",
+      "title": "Mahaa Shivratri Trend × AI & Motion Graphics",
+      "summary": "A Mahaa Shivratri experiment combines AI-generated imagery and motion graphics in a culturally inspired digital piece.",
+      "discipline": "Festive motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Mahaa Shivratri Trend × AI & Motion Graphics”.",
+      "designFocus": "Cultural imagery in a moving digital format",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/255872283/Mahaa-Shivratri-Trend-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "ChatGPT",
+        "Freepik"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visual Effects"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "255615459",
+    "slug": "creative/255615459-one-small-mistake-valentine-ai-motion-graphics",
+    "title": "One Small Mistake — Valentine | AI + Motion Graphics",
+    "subtitle": "A Valentine-themed motion story uses AI-created characters and scenes to develop the emotional idea One Small Mistake.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/255615459/One-Small-Mistake-Valentine-AI-Motion-Graphics",
+    "publicationDate": "September 12th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Animation"
+    ],
+    "tools": [
+      "Photoshop",
+      "Express",
+      "After Effects",
+      "ChatGPT",
+      "Midjourney AI"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-255615459.png",
+      "bytes": 655776,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/R6fmbz4oKHQ/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "255615459",
+      "title": "One Small Mistake — Valentine | AI + Motion Graphics",
+      "summary": "A Valentine-themed motion story uses AI-created characters and scenes to develop the emotional idea One Small Mistake.",
+      "discipline": "Character-led motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “One Small Mistake — Valentine | AI + Motion Graphics”.",
+      "designFocus": "An emotional short-form character story",
+      "challenge": null,
+      "approach": "Characters and scenes were generated using Freepik AI, then refined and prepared in Adobe Photoshop and Adobe Express.",
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/255615459/One-Small-Mistake-Valentine-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "Express",
+        "After Effects",
+        "ChatGPT",
+        "Midjourney AI"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Animation"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "255599913",
+    "slug": "creative/255599913-festive-special-holi-ai-motion-graphics",
+    "title": "Festive Special — Holi | AI + Motion Graphics",
+    "subtitle": "A Holi-themed AI and motion graphics project. The original presentation requires signing in to Behance.",
+    "category": "Creative",
+    "label": "View on Behance",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/255599913/Festive-Special-Holi-AI-Motion-Graphics",
+    "publicationDate": "September 11th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Motion Graphics",
+      "Graphic Design",
+      "Animation"
+    ],
+    "tools": [
+      "Photoshop",
+      "Express",
+      "After Effects",
+      "ChatGPT"
+    ],
+    "cover": null,
+    "gallery": [],
+    "videos": [],
+    "linkOnly": true,
+    "copy": {
+      "id": "255599913",
+      "title": "Festive Special — Holi | AI + Motion Graphics",
+      "summary": "A Holi-themed AI and motion graphics project. The original presentation requires signing in to Behance.",
+      "discipline": "Festive motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Festive Special — Holi | AI + Motion Graphics”.",
+      "designFocus": "Original project available on Behance",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "Original project link on Behance"
+      ],
+      "caseStudyType": "source-link",
+      "linkOnly": true,
+      "sourceUrl": "https://www.behance.net/gallery/255599913/Festive-Special-Holi-AI-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Media requires Behance sign-in. This entry uses public metadata only.",
+      "availableTools": [
+        "Photoshop",
+        "Express",
+        "After Effects",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Motion Graphics",
+        "Graphic Design",
+        "Animation"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "255599529",
+    "slug": "creative/255599529-chaos-to-calm-ai-video-meme-style-motion-graphics",
+    "title": "Chaos to Calm — AI Video | Meme-Style Motion Graphics",
+    "subtitle": "A meme-style motion graphics experiment combining AI-generated visuals and Adobe post-production. Viewing the original requires signing in to Behance.",
+    "category": "Creative",
+    "label": "View on Behance",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/255599529/Chaos-to-Calm-AI-Video-Meme-Style-Motion-Graphics",
+    "publicationDate": "September 11th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Motion Graphics",
+      "Graphic Design",
+      "Animation"
+    ],
+    "tools": [
+      "Photoshop",
+      "Illustrator",
+      "After Effects"
+    ],
+    "cover": null,
+    "gallery": [],
+    "videos": [],
+    "linkOnly": true,
+    "copy": {
+      "id": "255599529",
+      "title": "Chaos to Calm — AI Video | Meme-Style Motion Graphics",
+      "summary": "A meme-style motion graphics experiment combining AI-generated visuals and Adobe post-production. Viewing the original requires signing in to Behance.",
+      "discipline": "AI-assisted motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Chaos to Calm — AI Video | Meme-Style Motion Graphics”.",
+      "designFocus": "Original project available on Behance",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "Original project link on Behance"
+      ],
+      "caseStudyType": "source-link",
+      "linkOnly": true,
+      "sourceUrl": "https://www.behance.net/gallery/255599529/Chaos-to-Calm-AI-Video-Meme-Style-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Media requires Behance sign-in. This entry uses public metadata only.",
+      "availableTools": [
+        "Photoshop",
+        "Illustrator",
+        "After Effects"
+      ],
+      "categories": [
+        "Motion Graphics",
+        "Graphic Design",
+        "Animation"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "255171777",
+    "slug": "creative/255171777-platter-3d-product-animation",
+    "title": "Platter 3D Product Animation",
+    "subtitle": "A 3D product animation presents Platter’s all-in-one restaurant POS concept as a visual story about connected operations.",
+    "category": "Creative",
+    "label": "Case study",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/255171777/Platter-3D-Product-Animation",
+    "publicationDate": "September 2nd 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "3D Modeling"
+    ],
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe After Effects",
+      "Blender 3D"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-255171777.png",
+      "bytes": 92565,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/UwIW6rIcbuL/embed?api_key=behance1&bgcolor=%23191919",
+      "https://www-ccv.adobe.io/v1/player/ccv/4b72MvuyG6w/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "255171777",
+      "title": "Platter 3D Product Animation",
+      "summary": "A 3D product animation presents Platter’s all-in-one restaurant POS concept as a visual story about connected operations.",
+      "discipline": "3D product animation",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "The creator describes this as creative work for Platter, visualizing an all-in-one POS system for restaurant operations.",
+      "designFocus": "A modern, minimal 3D aesthetic keeps the product central while balancing functionality and storytelling.",
+      "challenge": "Turn several digital management functions into a simple, engaging product presentation.",
+      "approach": "3D elements, camera movement, motion graphics and compositing present billing, inventory, floor and table management as parts of one connected ecosystem.",
+      "deliverables": [
+        "2 embedded videos"
+      ],
+      "caseStudyType": "case-study",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/255171777/Platter-3D-Product-Animation",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the creator’s published project description. Process is summarized only where explicitly documented.",
+      "availableTools": [
+        "Adobe Photoshop",
+        "Adobe After Effects",
+        "Blender 3D"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "3D Modeling"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "254827219",
+    "slug": "creative/254827219-beyond-the-thread-raksha-bandhan-visual-story",
+    "title": "Beyond the Thread Raksha Bandhan Visual Story",
+    "subtitle": "A Raksha Bandhan visual story looks beyond the greeting to tradition, changing rituals, everyday economics and modern gifting.",
+    "category": "Creative",
+    "label": "Case study",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/254827219/Beyond-the-Thread-Raksha-Bandhan-Visual-Story",
+    "publicationDate": "August 26th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Illustration",
+      "Motion Graphics"
+    ],
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-254827219.png",
+      "bytes": 408278,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/254827219-01.webp",
+        "bytes": 160062,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254827219-02.webp",
+        "bytes": 158188,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254827219-03.webp",
+        "bytes": 168866,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254827219-04.webp",
+        "bytes": 156112,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254827219-05.webp",
+        "bytes": 175408,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254827219-06.webp",
+        "bytes": 161198,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254827219-07.webp",
+        "bytes": 112436,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254827219-08.webp",
+        "bytes": 126112,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "254827219",
+      "title": "Beyond the Thread Raksha Bandhan Visual Story",
+      "summary": "A Raksha Bandhan visual story looks beyond the greeting to tradition, changing rituals, everyday economics and modern gifting.",
+      "discipline": "Festive visual storytelling",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "An eight-slide illustrated Raksha Bandhan story exploring tradition, changing rituals, economics and gifting.",
+      "designFocus": "The central idea separates the price of a gift from the value of a bond.",
+      "challenge": "Create a festive visual story that goes beyond a conventional celebration post.",
+      "approach": "One Rakhi thread connects history, emotion, market, price and value across an eight-slide narrative.",
+      "deliverables": [
+        "8 published project images"
+      ],
+      "caseStudyType": "case-study",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/254827219/Beyond-the-Thread-Raksha-Bandhan-Visual-Story",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the creator’s published project description. Process is summarized only where explicitly documented.",
+      "availableTools": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Illustration",
+        "Motion Graphics"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "254504193",
+    "slug": "creative/254504193-redesigning-instagram-a-visual-story",
+    "title": "Redesigning Instagram — A Visual Story",
+    "subtitle": "A fictional Instagram wordmark redesign becomes a humorous visual story about exploration, feedback and designer-client conversations.",
+    "category": "Creative",
+    "label": "Case study",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/254504193/Redesigning-Instagram-A-Visual-Story",
+    "publicationDate": "August 19th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Logo Design"
+    ],
+    "tools": [
+      "Adobe Photoshop",
+      "ChatGPT"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-254504193.png",
+      "bytes": 253360,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/254504193-01.webp",
+        "bytes": 230038,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254504193-02.webp",
+        "bytes": 193278,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254504193-03.webp",
+        "bytes": 245492,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254504193-04.webp",
+        "bytes": 186364,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254504193-05.webp",
+        "bytes": 340224,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "254504193",
+      "title": "Redesigning Instagram — A Visual Story",
+      "summary": "A fictional Instagram wordmark redesign becomes a humorous visual story about exploration, feedback and designer-client conversations.",
+      "discipline": "Illustrated visual storytelling",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "An explicitly fictional Instagram wordmark redesign used to tell a story about design culture and internet humour.",
+      "designFocus": "A playful illustrated narrative explores branding, client feedback and the culture around design.",
+      "challenge": null,
+      "approach": "Expressive characters, Hinglish conversations and humorous designer-client moments carry the story from creative exploration to feedback and online reaction.",
+      "deliverables": [
+        "5 published project images"
+      ],
+      "caseStudyType": "case-study",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/254504193/Redesigning-Instagram-A-Visual-Story",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the creator’s published project description. Process is summarized only where explicitly documented.",
+      "availableTools": [
+        "Adobe Photoshop",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Logo Design"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "254252369",
+    "slug": "creative/254252369-80th-independence-day-a-celebration-and-a-question",
+    "title": "80th Independence Day — A Celebration, and a Question.",
+    "subtitle": "An Independence Day carousel explores freedom through questions, choice and accountability alongside celebration.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/254252369/80th-Independence-Day-A-Celebration-and-a-Question",
+    "publicationDate": "August 13th 2026",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design"
+    ],
+    "tools": [
+      "Photoshop",
+      "ChatGPT"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-254252369.png",
+      "bytes": 759694,
+      "contentType": "image/png",
+      "width": 1080,
+      "height": 1350,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/254252369-01.webp",
+        "bytes": 144624,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-02.webp",
+        "bytes": 210160,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-03.webp",
+        "bytes": 152682,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-04.webp",
+        "bytes": 167692,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-05.webp",
+        "bytes": 141384,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-06.webp",
+        "bytes": 242544,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-07.webp",
+        "bytes": 113316,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-08.webp",
+        "bytes": 144624,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-09.webp",
+        "bytes": 210160,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-10.webp",
+        "bytes": 152682,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-11.webp",
+        "bytes": 167692,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-12.webp",
+        "bytes": 141384,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-13.webp",
+        "bytes": 242544,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/254252369-14.webp",
+        "bytes": 113316,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "254252369",
+      "title": "80th Independence Day — A Celebration, and a Question.",
+      "summary": "An Independence Day carousel explores freedom through questions, choice and accountability alongside celebration.",
+      "discipline": "Social carousel / editorial design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “80th Independence Day — A Celebration, and a Question.”.",
+      "designFocus": "A reflective message across a social sequence",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "14 published project images"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/254252369/80th-Independence-Day-A-Celebration-and-a-Question",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Graphic Design"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "235225411",
+    "slug": "creative/235225411-1-sale-ka-sach-short-film-on-big-sale-scam",
+    "title": "₹1 Sale Ka Sach | Short Film on Big Sale Scam",
+    "subtitle": "A short-film project questions ₹1 offers and big-sale promotions through a consumer-focused visual narrative.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/235225411/1-Sale-Ka-Sach-Short-Film-on-Big-Sale-Scam",
+    "publicationDate": "September 23rd 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Photography"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-235225411.png",
+      "bytes": 1247331,
+      "contentType": "image/png",
+      "width": 1240,
+      "height": 698,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/235225411-01.webp",
+        "bytes": 189472,
+        "contentType": "image/webp",
+        "width": 1200,
+        "height": 675,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "235225411",
+      "title": "₹1 Sale Ka Sach | Short Film on Big Sale Scam",
+      "summary": "A short-film project questions ₹1 offers and big-sale promotions through a consumer-focused visual narrative.",
+      "discipline": "Short film / motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “₹1 Sale Ka Sach | Short Film on Big Sale Scam”.",
+      "designFocus": "The promise behind a dramatic sale price",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 published project image"
+      ],
+      "caseStudyType": "project-overview",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/235225411/1-Sale-Ka-Sach-Short-Film-on-Big-Sale-Scam",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "Based on the available published description and project media. No undocumented process or results are asserted.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Photography"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "235088713",
+    "slug": "creative/235088713-navratri-creative-poster-series-9-days-of-navdurga",
+    "title": "Navratri Creative Poster Series | 9 Days of Navdurga",
+    "subtitle": "A Navratri poster collection follows the nine days of Navdurga through a series of festive graphic designs.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/235088713/Navratri-Creative-Poster-Series-9-Days-of-Navdurga",
+    "publicationDate": "September 21st 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Illustration",
+      "Advertising"
+    ],
+    "tools": [
+      "Photoshop"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-235088713.png",
+      "bytes": 792656,
+      "contentType": "image/png",
+      "width": 1080,
+      "height": 1350,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/235088713-01.webp",
+        "bytes": 269628,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/235088713-02.webp",
+        "bytes": 183970,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/235088713-03.webp",
+        "bytes": 191720,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/235088713-04.webp",
+        "bytes": 298402,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/235088713-05.webp",
+        "bytes": 298984,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/235088713-06.webp",
+        "bytes": 209110,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/235088713-07.webp",
+        "bytes": 195830,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/235088713-08.webp",
+        "bytes": 276862,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/235088713-09.webp",
+        "bytes": 237346,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "235088713",
+      "title": "Navratri Creative Poster Series | 9 Days of Navdurga",
+      "summary": "A Navratri poster collection follows the nine days of Navdurga through a series of festive graphic designs.",
+      "discipline": "Festive poster design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Navratri Creative Poster Series | 9 Days of Navdurga”.",
+      "designFocus": "A connected nine-poster collection",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "9 published project images"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/235088713/Navratri-Creative-Poster-Series-9-Days-of-Navdurga",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Illustration",
+        "Advertising"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "235055953",
+    "slug": "creative/235055953-fast-cinematic-reel-edit",
+    "title": "Fast Cinematic Reel Edit",
+    "subtitle": "A cinematic reel-editing project presented within the creator’s motion graphics and visual effects work.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/235055953/Fast-Cinematic-Reel-Edit",
+    "publicationDate": "September 21st 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "tools": [],
+    "cover": {
+      "localPath": "/assets/creative/cover-235055953.png",
+      "bytes": 472878,
+      "contentType": "image/png",
+      "width": 1240,
+      "height": 698,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/235055953-01.webp",
+        "bytes": 195052,
+        "contentType": "image/webp",
+        "width": 1200,
+        "height": 675,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "235055953",
+      "title": "Fast Cinematic Reel Edit",
+      "summary": "A cinematic reel-editing project presented within the creator’s motion graphics and visual effects work.",
+      "discipline": "Reel editing / motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Fast Cinematic Reel Edit”.",
+      "designFocus": "A concise cinematic editing format",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 published project image"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/235055953/Fast-Cinematic-Reel-Edit",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visual Effects"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "235035959",
+    "slug": "creative/235035959-hardik-graphix-creative-logo-animation-reveal",
+    "title": "Hardik Graphix | Creative Logo Animation Reveal",
+    "subtitle": "A motion-led logo reveal for Hardik Graphix brings the creator’s own identity into an animated format.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/235035959/Hardik-Graphix-Creative-Logo-Animation-Reveal",
+    "publicationDate": "September 20th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Logo Design"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Illustrator"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-235035959.png",
+      "bytes": 268974,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/QtcPauBDezS/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "235035959",
+      "title": "Hardik Graphix | Creative Logo Animation Reveal",
+      "summary": "A motion-led logo reveal for Hardik Graphix brings the creator’s own identity into an animated format.",
+      "discipline": "Logo animation",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Hardik Graphix | Creative Logo Animation Reveal”.",
+      "designFocus": "A graphic identity revealed through motion",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/235035959/Hardik-Graphix-Creative-Logo-Animation-Reveal",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Illustrator"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Logo Design"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234680205",
+    "slug": "creative/234680205-loop-in-life-i-short-movie-poster-design",
+    "title": "Loop In Life I Short Movie Poster Design",
+    "subtitle": "A poster-design collection for the short-film title Loop In Life.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234680205/Loop-In-Life-I-Short-Movie-Poster-Design",
+    "publicationDate": "September 15th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Illustration",
+      "Advertising"
+    ],
+    "tools": [
+      "Photoshop",
+      "Illustrator"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234680205.png",
+      "bytes": 164394,
+      "contentType": "image/png",
+      "width": 1080,
+      "height": 1350,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/234680205-01.webp",
+        "bytes": 52896,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234680205-02.webp",
+        "bytes": 121592,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234680205-03.webp",
+        "bytes": 132934,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234680205-04.webp",
+        "bytes": 140834,
+        "contentType": "image/webp",
+        "width": 1200,
+        "height": 675,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "234680205",
+      "title": "Loop In Life I Short Movie Poster Design",
+      "summary": "A poster-design collection for the short-film title Loop In Life.",
+      "discipline": "Film poster design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Loop In Life I Short Movie Poster Design”.",
+      "designFocus": "A short-film title explored through poster design",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "4 published project images"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234680205/Loop-In-Life-I-Short-Movie-Poster-Design",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Illustration",
+        "Advertising"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234679901",
+    "slug": "creative/234679901-engineers-are-heroes-poster-design",
+    "title": "Engineers Are Heroes – Poster Design",
+    "subtitle": "A poster-design project built around the theme Engineers Are Heroes.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234679901/Engineers-Are-Heroes-Poster-Design",
+    "publicationDate": "September 15th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Illustration",
+      "Advertising"
+    ],
+    "tools": [
+      "Photoshop"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234679901.png",
+      "bytes": 609095,
+      "contentType": "image/png",
+      "width": 1080,
+      "height": 1350,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/234679901-01.webp",
+        "bytes": 160312,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234679901-02.webp",
+        "bytes": 147136,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "234679901",
+      "title": "Engineers Are Heroes – Poster Design",
+      "summary": "A poster-design project built around the theme Engineers Are Heroes.",
+      "discipline": "Poster design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Engineers Are Heroes – Poster Design”.",
+      "designFocus": "A thematic graphic poster presentation",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "2 published project images"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234679901/Engineers-Are-Heroes-Poster-Design",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Illustration",
+        "Advertising"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234022653",
+    "slug": "creative/234022653-game-on-cricket-match-info-graphics",
+    "title": "Game On! – Cricket Match Info Graphics",
+    "subtitle": "A collection of cricket match information graphics under the title Game On!",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234022653/Game-On-Cricket-Match-Info-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design"
+    ],
+    "tools": [
+      "Photoshop",
+      "Illustrator"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234022653.png",
+      "bytes": 405666,
+      "contentType": "image/png",
+      "width": 1400,
+      "height": 788,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/234022653-01.webp",
+        "bytes": 167740,
+        "contentType": "image/webp",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022653-02.webp",
+        "bytes": 123270,
+        "contentType": "image/webp",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022653-03.webp",
+        "bytes": 194300,
+        "contentType": "image/webp",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022653-04.webp",
+        "bytes": 177724,
+        "contentType": "image/webp",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022653-05.webp",
+        "bytes": 167662,
+        "contentType": "image/webp",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "234022653",
+      "title": "Game On! – Cricket Match Info Graphics",
+      "summary": "A collection of cricket match information graphics under the title Game On!",
+      "discipline": "Sports information design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Game On! – Cricket Match Info Graphics”.",
+      "designFocus": "Cricket match information in a graphic format",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "5 published project images"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234022653/Game-On-Cricket-Match-Info-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "categories": [
+        "Graphic Design"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234022407",
+    "slug": "creative/234022407-meme-league-cricket-edition",
+    "title": "Meme League – Cricket Edition",
+    "subtitle": "A cricket-themed graphic collection presented as Meme League.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234022407/Meme-League-Cricket-Edition",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design"
+    ],
+    "tools": [
+      "Photoshop",
+      "Illustrator"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234022407.png",
+      "bytes": 235351,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/234022407-01.webp",
+        "bytes": 221494,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022407-02.webp",
+        "bytes": 230450,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022407-03.webp",
+        "bytes": 245948,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022407-04.webp",
+        "bytes": 156548,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022407-05.webp",
+        "bytes": 184818,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "234022407",
+      "title": "Meme League – Cricket Edition",
+      "summary": "A cricket-themed graphic collection presented as Meme League.",
+      "discipline": "Sports social graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Meme League – Cricket Edition”.",
+      "designFocus": "A cricket-themed meme collection",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "5 published project images"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234022407/Meme-League-Cricket-Edition",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "categories": [
+        "Graphic Design"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234022179",
+    "slug": "creative/234022179-matchday-moments-cricket-info-posters",
+    "title": "Matchday Moments – Cricket Info Posters",
+    "subtitle": "A set of cricket information posters collected under Matchday Moments.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234022179/Matchday-Moments-Cricket-Info-Posters",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design"
+    ],
+    "tools": [
+      "Photoshop",
+      "Illustrator",
+      "Lightroom"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234022179.png",
+      "bytes": 252182,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/234022179-01.webp",
+        "bytes": 166498,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022179-02.webp",
+        "bytes": 518656,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022179-03.webp",
+        "bytes": 254352,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022179-04.webp",
+        "bytes": 504564,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234022179-05.webp",
+        "bytes": 340848,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "234022179",
+      "title": "Matchday Moments – Cricket Info Posters",
+      "summary": "A set of cricket information posters collected under Matchday Moments.",
+      "discipline": "Sports poster design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Matchday Moments – Cricket Info Posters”.",
+      "designFocus": "Matchday information across a poster series",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "5 published project images"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234022179/Matchday-Moments-Cricket-Info-Posters",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "Illustrator",
+        "Lightroom"
+      ],
+      "categories": [
+        "Graphic Design"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234021949",
+    "slug": "creative/234021949-cricket-info-creatives-match-day-designs",
+    "title": "Cricket Info Creatives – Match Day Designs",
+    "subtitle": "Matchday design work brings cricket information into a collection of graphic creatives.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234021949/Cricket-Info-Creatives-Match-Day-Designs",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design"
+    ],
+    "tools": [
+      "Photoshop",
+      "Lightroom",
+      "Illustrator"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234021949.png",
+      "bytes": 292245,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/234021949-01.webp",
+        "bytes": 296402,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234021949-02.webp",
+        "bytes": 381640,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234021949-03.webp",
+        "bytes": 153230,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234021949-04.webp",
+        "bytes": 261892,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234021949-05.webp",
+        "bytes": 406890,
+        "contentType": "image/webp",
+        "width": 1080,
+        "height": 1350,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "234021949",
+      "title": "Cricket Info Creatives – Match Day Designs",
+      "summary": "Matchday design work brings cricket information into a collection of graphic creatives.",
+      "discipline": "Sports information design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Cricket Info Creatives – Match Day Designs”.",
+      "designFocus": "Cricket matchday communication",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "5 published project images"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234021949/Cricket-Info-Creatives-Match-Day-Designs",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "Lightroom",
+        "Illustrator"
+      ],
+      "categories": [
+        "Graphic Design"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234020037",
+    "slug": "creative/234020037-the-wait-is-over",
+    "title": "The Wait Is Over",
+    "subtitle": "A graphic and advertising poster collection presented under the title The Wait Is Over.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234020037/The-Wait-Is-Over",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Advertising",
+      "Poster Design"
+    ],
+    "tools": [
+      "Photoshop",
+      "Lightroom"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234020037.png",
+      "bytes": 788928,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/234020037-01.webp",
+        "bytes": 162564,
+        "contentType": "image/webp",
+        "width": 900,
+        "height": 1600,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234020037-02.webp",
+        "bytes": 102270,
+        "contentType": "image/webp",
+        "width": 900,
+        "height": 1600,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234020037-03.webp",
+        "bytes": 141538,
+        "contentType": "image/webp",
+        "width": 900,
+        "height": 1600,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234020037-04.webp",
+        "bytes": 122366,
+        "contentType": "image/webp",
+        "width": 900,
+        "height": 1600,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234020037-05.webp",
+        "bytes": 189702,
+        "contentType": "image/webp",
+        "width": 900,
+        "height": 1600,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/234020037-06.webp",
+        "bytes": 136224,
+        "contentType": "image/webp",
+        "width": 900,
+        "height": 1600,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "234020037",
+      "title": "The Wait Is Over",
+      "summary": "A graphic and advertising poster collection presented under the title The Wait Is Over.",
+      "discipline": "Advertising / poster design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “The Wait Is Over”.",
+      "designFocus": "An announcement theme in poster format",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "6 published project images"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234020037/The-Wait-Is-Over",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "Lightroom"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Advertising",
+        "Poster Design"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234019641",
+    "slug": "creative/234019641-office-x-friendship-party-motion-graphics",
+    "title": "Office x Friendship Party – Motion Graphics",
+    "subtitle": "A motion graphics edit built around the title Office x Friendship Party.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234019641/Office-x-Friendship-Party-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234019641.png",
+      "bytes": 288090,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/2yWkR8UrkvX/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234019641",
+      "title": "Office x Friendship Party – Motion Graphics",
+      "summary": "A motion graphics edit built around the title Office x Friendship Party.",
+      "discipline": "Motion graphics / editing",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Office x Friendship Party – Motion Graphics”.",
+      "designFocus": "An office-and-friendship theme in motion",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234019641/Office-x-Friendship-Party-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234019235",
+    "slug": "creative/234019235-corporate-table-motion-graphics",
+    "title": "Corporate Table – Motion Graphics",
+    "subtitle": "Corporate Table is a motion graphics piece within the creator’s editing portfolio.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234019235/Corporate-Table-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [],
+    "cover": {
+      "localPath": "/assets/creative/cover-234019235.png",
+      "bytes": 274144,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/4dg2Mj9oZso/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234019235",
+      "title": "Corporate Table – Motion Graphics",
+      "summary": "Corporate Table is a motion graphics piece within the creator’s editing portfolio.",
+      "discipline": "Motion graphics / editing",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Corporate Table – Motion Graphics”.",
+      "designFocus": "A moving visual presentation",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234019235/Corporate-Table-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234018993",
+    "slug": "creative/234018993-formal-day-shoot-motion-graphics",
+    "title": "Formal Day Shoot – Motion Graphics",
+    "subtitle": "A motion graphics edit presented as Formal Day Shoot.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234018993/Formal-Day-Shoot-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop",
+      "Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234018993.png",
+      "bytes": 213475,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/QB5gj5xY6nc/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234018993",
+      "title": "Formal Day Shoot – Motion Graphics",
+      "summary": "A motion graphics edit presented as Formal Day Shoot.",
+      "discipline": "Motion graphics / editing",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Formal Day Shoot – Motion Graphics”.",
+      "designFocus": "A shoot shaped into a moving presentation",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234018993/Formal-Day-Shoot-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "After Effects",
+        "Photoshop",
+        "Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234018425",
+    "slug": "creative/234018425-meme-in-motion-saiyaara-movie-spoof",
+    "title": "Meme in Motion: Saiyaara Movie Spoof",
+    "subtitle": "A meme-style motion graphics spoof inspired by the film title Saiyaara.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234018425/Meme-in-Motion-Saiyaara-Movie-Spoof",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234018425.png",
+      "bytes": 240752,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/2_UoayM8Zd9/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234018425",
+      "title": "Meme in Motion: Saiyaara Movie Spoof",
+      "summary": "A meme-style motion graphics spoof inspired by the film title Saiyaara.",
+      "discipline": "Meme-style motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Meme in Motion: Saiyaara Movie Spoof”.",
+      "designFocus": "Humour in a movie-spoof editing format",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234018425/Meme-in-Motion-Saiyaara-Movie-Spoof",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234018265",
+    "slug": "creative/234018265-game-over-glory-on-sports-motion-graphics",
+    "title": "Game Over, Glory On – Sports Motion Graphics",
+    "subtitle": "A sports motion graphics piece presented under the title Game Over, Glory On.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234018265/Game-Over-Glory-On-Sports-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [],
+    "cover": {
+      "localPath": "/assets/creative/cover-234018265.png",
+      "bytes": 271791,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/UW-rfDfoh84/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234018265",
+      "title": "Game Over, Glory On – Sports Motion Graphics",
+      "summary": "A sports motion graphics piece presented under the title Game Over, Glory On.",
+      "discipline": "Sports motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Game Over, Glory On – Sports Motion Graphics”.",
+      "designFocus": "A sports-themed motion presentation",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234018265/Game-Over-Glory-On-Sports-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234017885",
+    "slug": "creative/234017885-edit-x-vibes-motion-graphics",
+    "title": "Edit x Vibes – Motion Graphics",
+    "subtitle": "A motion graphics edit collected under the title Edit x Vibes.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234017885/Edit-x-Vibes-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234017885.png",
+      "bytes": 222745,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/3aTRCoqQun6/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234017885",
+      "title": "Edit x Vibes – Motion Graphics",
+      "summary": "A motion graphics edit collected under the title Edit x Vibes.",
+      "discipline": "Motion graphics / editing",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Edit x Vibes – Motion Graphics”.",
+      "designFocus": "A concise moving visual edit",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234017885/Edit-x-Vibes-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234017711",
+    "slug": "creative/234017711-win-with-a-twist-motion-graphics",
+    "title": "Win with a Twist – Motion Graphics",
+    "subtitle": "Win with a Twist is a motion graphics project in the creator’s editing collection.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234017711/Win-with-a-Twist-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234017711.png",
+      "bytes": 254865,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/KEy99MRcvvw/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234017711",
+      "title": "Win with a Twist – Motion Graphics",
+      "summary": "Win with a Twist is a motion graphics project in the creator’s editing collection.",
+      "discipline": "Motion graphics / editing",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Win with a Twist – Motion Graphics”.",
+      "designFocus": "A concept presented through motion and editing",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234017711/Win-with-a-Twist-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234017475",
+    "slug": "creative/234017475-two-souls-one-trip-motion-graphics",
+    "title": "Two Souls, One Trip – Motion Graphics",
+    "subtitle": "A motion graphics project presented under the title Two Souls, One Trip.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234017475/Two-Souls-One-Trip-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234017475.png",
+      "bytes": 253813,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/C7zKTKIkIu4/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234017475",
+      "title": "Two Souls, One Trip – Motion Graphics",
+      "summary": "A motion graphics project presented under the title Two Souls, One Trip.",
+      "discipline": "Motion graphics / editing",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Two Souls, One Trip – Motion Graphics”.",
+      "designFocus": "A journey theme in a moving presentation",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234017475/Two-Souls-One-Trip-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234016877",
+    "slug": "creative/234016877-punjab-s-journey-motion-graphics",
+    "title": "Punjab’s Journey – Motion Graphics",
+    "subtitle": "A motion graphics piece presented as Punjab’s Journey.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234016877/Punjabs-Journey-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234016877.png",
+      "bytes": 207400,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/SZZQnTE7MJb/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234016877",
+      "title": "Punjab’s Journey – Motion Graphics",
+      "summary": "A motion graphics piece presented as Punjab’s Journey.",
+      "discipline": "Motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Punjab’s Journey – Motion Graphics”.",
+      "designFocus": "A journey theme explored through motion",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234016877/Punjabs-Journey-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234016345",
+    "slug": "creative/234016345-champions-in-frame-sports-motion-graphics",
+    "title": "Champions in Frame – Sports Motion Graphics",
+    "subtitle": "A sports motion graphics project presented under the title Champions in Frame.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234016345/Champions-in-Frame-Sports-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [
+      "Photoshop",
+      "Premiere Pro",
+      "After Effects"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234016345.png",
+      "bytes": 305475,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/RLzmUx2vHB7/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234016345",
+      "title": "Champions in Frame – Sports Motion Graphics",
+      "summary": "A sports motion graphics project presented under the title Champions in Frame.",
+      "discipline": "Sports motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Champions in Frame – Sports Motion Graphics”.",
+      "designFocus": "A champions theme in a moving sports format",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234016345/Champions-in-Frame-Sports-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "Premiere Pro",
+        "After Effects"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234016177",
+    "slug": "creative/234016177-spirit-of-veer-motion-graphics",
+    "title": "Spirit of Veer – Motion Graphics",
+    "subtitle": "A motion graphics piece collected under the title Spirit of Veer.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234016177/Spirit-of-Veer-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234016177.png",
+      "bytes": 286853,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/CucYzCii9am/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234016177",
+      "title": "Spirit of Veer – Motion Graphics",
+      "summary": "A motion graphics piece collected under the title Spirit of Veer.",
+      "discipline": "Motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Spirit of Veer – Motion Graphics”.",
+      "designFocus": "A named concept presented as a motion showcase",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234016177/Spirit-of-Veer-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234015871",
+    "slug": "creative/234015871-road-to-finals-sports-motion-graphics",
+    "title": "Road to Finals – Sports Motion Graphics",
+    "subtitle": "A sports motion graphics piece built around the title Road to Finals.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234015871/Road-to-Finals-Sports-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234015871.png",
+      "bytes": 276491,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/-Mv3TnMpxqc/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234015871",
+      "title": "Road to Finals – Sports Motion Graphics",
+      "summary": "A sports motion graphics piece built around the title Road to Finals.",
+      "discipline": "Sports motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Road to Finals – Sports Motion Graphics”.",
+      "designFocus": "A finals theme in a moving sports presentation",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234015871/Road-to-Finals-Sports-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234015603",
+    "slug": "creative/234015603-predict-win-sports-motion-graphics",
+    "title": "Predict & Win – Sports Motion Graphics",
+    "subtitle": "A sports motion graphics project presented as Predict & Win.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234015603/Predict-Win-Sports-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Editing"
+    ],
+    "tools": [
+      "Premiere Pro",
+      "After Effects",
+      "Photoshop"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234015603.png",
+      "bytes": 298899,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/QoUsBVYrbqn/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234015603",
+      "title": "Predict & Win – Sports Motion Graphics",
+      "summary": "A sports motion graphics project presented as Predict & Win.",
+      "discipline": "Sports motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Predict & Win – Sports Motion Graphics”.",
+      "designFocus": "A prediction theme explored through motion",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234015603/Predict-Win-Sports-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Premiere Pro",
+        "After Effects",
+        "Photoshop"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Editing"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234015177",
+    "slug": "creative/234015177-fun-reloaded-motion-graphics",
+    "title": "Fun Reloaded – Motion Graphics",
+    "subtitle": "A motion graphics edit presented under the title Fun Reloaded.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234015177/Fun-Reloaded-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Photoshop",
+      "After Effects",
+      "Premiere Pro",
+      "Illustrator"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234015177.png",
+      "bytes": 228202,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/2HVBZbmqfNz/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234015177",
+      "title": "Fun Reloaded – Motion Graphics",
+      "summary": "A motion graphics edit presented under the title Fun Reloaded.",
+      "discipline": "Motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Fun Reloaded – Motion Graphics”.",
+      "designFocus": "A named concept in a moving visual edit",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234015177/Fun-Reloaded-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "After Effects",
+        "Premiere Pro",
+        "Illustrator"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234014495",
+    "slug": "creative/234014495-grind-mode-on-motion-graphics",
+    "title": "Grind Mode On – Motion Graphics",
+    "subtitle": "A motion graphics project presented as Grind Mode On.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234014495/Grind-Mode-On-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "After Effects",
+      "Premiere Pro",
+      "Photoshop"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234014495.png",
+      "bytes": 255278,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/CHxpJLKziSN/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234014495",
+      "title": "Grind Mode On – Motion Graphics",
+      "summary": "A motion graphics project presented as Grind Mode On.",
+      "discipline": "Motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Grind Mode On – Motion Graphics”.",
+      "designFocus": "A theme presented through motion design",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234014495/Grind-Mode-On-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "After Effects",
+        "Premiere Pro",
+        "Photoshop"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234014311",
+    "slug": "creative/234014311-designing-her-day-women-s-day-motion-graphics",
+    "title": "Designing Her Day – Women’s Day Motion Graphics",
+    "subtitle": "A Women’s Day motion graphics project presented as Designing Her Day.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234014311/Designing-Her-Day-Womens-Day-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visualization"
+    ],
+    "tools": [
+      "Photoshop",
+      "Illustrator",
+      "Premiere Pro",
+      "After Effects"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234014311.png",
+      "bytes": 237847,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/SAjRR7tgegj/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234014311",
+      "title": "Designing Her Day – Women’s Day Motion Graphics",
+      "summary": "A Women’s Day motion graphics project presented as Designing Her Day.",
+      "discipline": "Occasion-led motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Designing Her Day – Women’s Day Motion Graphics”.",
+      "designFocus": "A Women’s Day message in motion",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234014311/Designing-Her-Day-Womens-Day-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "Illustrator",
+        "Premiere Pro",
+        "After Effects"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visualization"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234014017",
+    "slug": "creative/234014017-ai-x-women-s-day-motion-graphics",
+    "title": "AI x Women’s Day – Motion Graphics",
+    "subtitle": "A Women’s Day motion graphics experiment presented under the title AI x Women’s Day.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234014017/AI-x-Womens-Day-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "tools": [
+      "Photoshop",
+      "Illustrator",
+      "After Effects",
+      "Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-234014017.png",
+      "bytes": 282409,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/Pmn6SvFyvdo/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234014017",
+      "title": "AI x Women’s Day – Motion Graphics",
+      "summary": "A Women’s Day motion graphics experiment presented under the title AI x Women’s Day.",
+      "discipline": "AI-assisted motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “AI x Women’s Day – Motion Graphics”.",
+      "designFocus": "AI within an occasion-led motion presentation",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234014017/AI-x-Womens-Day-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Photoshop",
+        "Illustrator",
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visual Effects"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "234013809",
+    "slug": "creative/234013809-neon-on-the-pitch-motion-graphics",
+    "title": "Neon on the Pitch – Motion Graphics",
+    "subtitle": "A motion graphics piece presented as Neon on the Pitch.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/234013809/Neon-on-the-Pitch-Motion-Graphics",
+    "publicationDate": "September 5th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "tools": [],
+    "cover": {
+      "localPath": "/assets/creative/cover-234013809.png",
+      "bytes": 253159,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/-BgRbD_pzAG/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "234013809",
+      "title": "Neon on the Pitch – Motion Graphics",
+      "summary": "A motion graphics piece presented as Neon on the Pitch.",
+      "discipline": "Motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Neon on the Pitch – Motion Graphics”.",
+      "designFocus": "A named visual concept explored through motion",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/234013809/Neon-on-the-Pitch-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visual Effects"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "233958859",
+    "slug": "creative/233958859-behind-the-ghibli-magic-motion-graphics",
+    "title": "Behind the Ghibli Magic – Motion Graphics",
+    "subtitle": "A motion graphics project presented under the title Behind the Ghibli Magic.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/233958859/Behind-the-Ghibli-Magic-Motion-Graphics",
+    "publicationDate": "September 4th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "tools": [],
+    "cover": {
+      "localPath": "/assets/creative/cover-233958859.png",
+      "bytes": 235097,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/4Z5Y3Ng_T6S/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "233958859",
+      "title": "Behind the Ghibli Magic – Motion Graphics",
+      "summary": "A motion graphics project presented under the title Behind the Ghibli Magic.",
+      "discipline": "Motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Behind the Ghibli Magic – Motion Graphics”.",
+      "designFocus": "The creator’s published moving presentation",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/233958859/Behind-the-Ghibli-Magic-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visual Effects"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "233957619",
+    "slug": "creative/233957619-wishes-with-a-roast-motion-graphics",
+    "title": "Wishes with a Roast – Motion Graphics",
+    "subtitle": "A motion graphics piece presented as Wishes with a Roast.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/233957619/Wishes-with-a-Roast-Motion-Graphics",
+    "publicationDate": "September 4th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "tools": [
+      "Adobe After Effects",
+      "Adobe Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-233957619.png",
+      "bytes": 236127,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/Njq2EAjMcdZ/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "233957619",
+      "title": "Wishes with a Roast – Motion Graphics",
+      "summary": "A motion graphics piece presented as Wishes with a Roast.",
+      "discipline": "Motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Wishes with a Roast – Motion Graphics”.",
+      "designFocus": "A named concept in a moving visual edit",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/233957619/Wishes-with-a-Roast-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Adobe After Effects",
+        "Adobe Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visual Effects"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "233957355",
+    "slug": "creative/233957355-behind-the-laughter-motion-graphics",
+    "title": "Behind the Laughter – Motion Graphics",
+    "subtitle": "A motion graphics project collected under the title Behind the Laughter.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/233957355/Behind-the-Laughter-Motion-Graphics",
+    "publicationDate": "September 4th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "tools": [
+      "Adobe After Effects",
+      "Adobe Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-233957355.png",
+      "bytes": 240253,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/NY6VCWmH_Z2/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "233957355",
+      "title": "Behind the Laughter – Motion Graphics",
+      "summary": "A motion graphics project collected under the title Behind the Laughter.",
+      "discipline": "Motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Behind the Laughter – Motion Graphics”.",
+      "designFocus": "The creator’s published moving presentation",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/233957355/Behind-the-Laughter-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Adobe After Effects",
+        "Adobe Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visual Effects"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "233956833",
+    "slug": "creative/233956833-crafting-the-final-impact-motion-graphics",
+    "title": "Crafting the Final Impact – Motion Graphics",
+    "subtitle": "A motion graphics piece presented as Crafting the Final Impact.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/233956833/Crafting-the-Final-Impact-Motion-Graphics",
+    "publicationDate": "September 4th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "tools": [
+      "Adobe After Effects",
+      "Adobe Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-233956833.png",
+      "bytes": 257408,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/ICqriRv2zNe/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "233956833",
+      "title": "Crafting the Final Impact – Motion Graphics",
+      "summary": "A motion graphics piece presented as Crafting the Final Impact.",
+      "discipline": "Motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Crafting the Final Impact – Motion Graphics”.",
+      "designFocus": "A named concept explored through motion and editing",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/233956833/Crafting-the-Final-Impact-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Adobe After Effects",
+        "Adobe Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Visual Effects"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "233956415",
+    "slug": "creative/233956415-making-the-t20-magic-cricket-motion-graphics",
+    "title": "Making the T20 Magic – Cricket Motion Graphics",
+    "subtitle": "A cricket motion graphics project presented as Making the T20 Magic.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/233956415/Making-the-T20-Magic-Cricket-Motion-Graphics",
+    "publicationDate": "September 4th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Visual Effects",
+      "Motion Graphics"
+    ],
+    "tools": [
+      "Adobe After Effects",
+      "Adobe Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-233956415.png",
+      "bytes": 252778,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/5FENnWpArS3/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "233956415",
+      "title": "Making the T20 Magic – Cricket Motion Graphics",
+      "summary": "A cricket motion graphics project presented as Making the T20 Magic.",
+      "discipline": "Cricket motion graphics",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Making the T20 Magic – Cricket Motion Graphics”.",
+      "designFocus": "A cricket theme in a moving visual presentation",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/233956415/Making-the-T20-Magic-Cricket-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Adobe After Effects",
+        "Adobe Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Visual Effects",
+        "Motion Graphics"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "233955913",
+    "slug": "creative/233955913-fun-and-productivity-motion-graphics-reel",
+    "title": "Fun and Productivity – Motion Graphics Reel",
+    "subtitle": "A motion graphics reel presented under the title Fun and Productivity.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/233955913/Fun-and-Productivity-Motion-Graphics-Reel",
+    "publicationDate": "September 4th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Photography",
+      "Motion Graphics"
+    ],
+    "tools": [],
+    "cover": {
+      "localPath": "/assets/creative/cover-233955913.png",
+      "bytes": 239965,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/SwtfJ8fcizr/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "233955913",
+      "title": "Fun and Productivity – Motion Graphics Reel",
+      "summary": "A motion graphics reel presented under the title Fun and Productivity.",
+      "discipline": "Motion graphics reel",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Fun and Productivity – Motion Graphics Reel”.",
+      "designFocus": "A theme brought into a concise reel format",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/233955913/Fun-and-Productivity-Motion-Graphics-Reel",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [],
+      "categories": [
+        "Graphic Design",
+        "Photography",
+        "Motion Graphics"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "233954219",
+    "slug": "creative/233954219-portfolio-2025-motion-graphics-branding",
+    "title": "Portfolio 2025 | Motion Graphics & Branding",
+    "subtitle": "A 2025 portfolio collection showcasing motion graphics and branding work.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/233954219/Portfolio-2025-Motion-Graphics-Branding",
+    "publicationDate": "September 4th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Photography"
+    ],
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe Premiere Pro",
+      "Adobe After Effects",
+      "Adobe Lightroom",
+      "Adobe Audition"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-233954219.png",
+      "bytes": 798708,
+      "contentType": "image/png",
+      "width": 1400,
+      "height": 788,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/233954219-01.webp",
+        "bytes": 113954,
+        "contentType": "image/webp",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-02.webp",
+        "bytes": 157496,
+        "contentType": "image/webp",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-03.webp",
+        "bytes": 210140,
+        "contentType": "image/webp",
+        "width": 1400,
+        "height": 787,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-04.webp",
+        "bytes": 262822,
+        "contentType": "image/webp",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-05.png",
+        "bytes": 378972,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-06.png",
+        "bytes": 440017,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-07.png",
+        "bytes": 486948,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-08.png",
+        "bytes": 613073,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-09.webp",
+        "bytes": 208390,
+        "contentType": "image/webp",
+        "width": 1921,
+        "height": 1079,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-10.png",
+        "bytes": 495565,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-11.webp",
+        "bytes": 171314,
+        "contentType": "image/webp",
+        "width": 1921,
+        "height": 1080,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-12.webp",
+        "bytes": 363764,
+        "contentType": "image/webp",
+        "width": 1926,
+        "height": 1080,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-13.webp",
+        "bytes": 182494,
+        "contentType": "image/webp",
+        "width": 1926,
+        "height": 1080,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-14.png",
+        "bytes": 429430,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-15.png",
+        "bytes": 472893,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-16.webp",
+        "bytes": 346992,
+        "contentType": "image/webp",
+        "width": 1921,
+        "height": 1082,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-17.png",
+        "bytes": 485872,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-18.png",
+        "bytes": 425127,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-19.png",
+        "bytes": 438741,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-20.webp",
+        "bytes": 344948,
+        "contentType": "image/webp",
+        "width": 1921,
+        "height": 1080,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-21.png",
+        "bytes": 449004,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-22.png",
+        "bytes": 547061,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 790,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-23.png",
+        "bytes": 447806,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-24.png",
+        "bytes": 443187,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-25.webp",
+        "bytes": 325144,
+        "contentType": "image/webp",
+        "width": 1921,
+        "height": 1080,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-26.png",
+        "bytes": 415313,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 787,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-27.png",
+        "bytes": 469520,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 790,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-28.png",
+        "bytes": 508762,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 790,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-29.png",
+        "bytes": 539030,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-30.png",
+        "bytes": 424454,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-31.png",
+        "bytes": 444792,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-32.png",
+        "bytes": 717507,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-33.png",
+        "bytes": 807489,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-34.png",
+        "bytes": 402900,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-35.png",
+        "bytes": 349918,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-36.png",
+        "bytes": 628318,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-37.png",
+        "bytes": 807913,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      },
+      {
+        "localPath": "/assets/creative/233954219-38.png",
+        "bytes": 402290,
+        "contentType": "image/png",
+        "width": 1400,
+        "height": 788,
+        "error": null
+      }
+    ],
+    "videos": [],
+    "linkOnly": false,
+    "copy": {
+      "id": "233954219",
+      "title": "Portfolio 2025 | Motion Graphics & Branding",
+      "summary": "A 2025 portfolio collection showcasing motion graphics and branding work.",
+      "discipline": "Portfolio / motion and branding",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Portfolio 2025 | Motion Graphics & Branding”.",
+      "designFocus": "Motion and branding together in a portfolio collection",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "38 published project images"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/233954219/Portfolio-2025-Motion-Graphics-Branding",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Premiere Pro",
+        "Adobe After Effects",
+        "Adobe Lightroom",
+        "Adobe Audition"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Photography"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "id": "233955187",
+    "slug": "creative/233955187-pushpa-offer-reel-meme-style-motion-graphics",
+    "title": "Pushpa Offer Reel – Meme Style Motion Graphics",
+    "subtitle": "A meme-style motion graphics reel presented as Pushpa Offer Reel.",
+    "category": "Creative",
+    "label": "Project showcase",
+    "status": "published",
+    "published": true,
+    "source": "behance",
+    "sourceUrl": "https://www.behance.net/gallery/233955187/Pushpa-Offer-Reel-Meme-Style-Motion-Graphics",
+    "publicationDate": "September 4th 2025",
+    "creator": "Hardik Soni / Hardik Graphix",
+    "categories": [
+      "Graphic Design",
+      "Motion Graphics",
+      "Photography"
+    ],
+    "tools": [
+      "Adobe After Effects",
+      "Adobe Premiere Pro"
+    ],
+    "cover": {
+      "localPath": "/assets/creative/cover-233955187.png",
+      "bytes": 289957,
+      "contentType": "image/png",
+      "width": 808,
+      "height": 632,
+      "error": null
+    },
+    "gallery": [
+      {
+        "localPath": "/assets/creative/233955187-01.webp",
+        "bytes": 56738,
+        "contentType": "image/webp",
+        "width": 808,
+        "height": 632,
+        "error": null
+      }
+    ],
+    "videos": [
+      "https://www-ccv.adobe.io/v1/player/ccv/H99xVGIJGaD/embed?api_key=behance1&bgcolor=%23191919"
+    ],
+    "linkOnly": false,
+    "copy": {
+      "id": "233955187",
+      "title": "Pushpa Offer Reel – Meme Style Motion Graphics",
+      "summary": "A meme-style motion graphics reel presented as Pushpa Offer Reel.",
+      "discipline": "Meme-style motion design",
+      "disciplineBasis": "Editorial grouping based on the published title and creative fields.",
+      "context": "Published by Hardik Graphix as “Pushpa Offer Reel – Meme Style Motion Graphics”.",
+      "designFocus": "An offer-reel theme in a humorous motion format",
+      "challenge": null,
+      "approach": null,
+      "deliverables": [
+        "1 published project image",
+        "1 embedded video"
+      ],
+      "caseStudyType": "project-showcase",
+      "linkOnly": false,
+      "sourceUrl": "https://www.behance.net/gallery/233955187/Pushpa-Offer-Reel-Meme-Style-Motion-Graphics",
+      "creatorCredit": "Hardik Soni / Hardik Graphix",
+      "evidenceNote": "The source supplies a title, creative fields and media with limited written context. This is a showcase, without an invented brief, process or results.",
+      "availableTools": [
+        "Adobe After Effects",
+        "Adobe Premiere Pro"
+      ],
+      "categories": [
+        "Graphic Design",
+        "Motion Graphics",
+        "Photography"
+      ]
+    },
+    "outcome": "Creative work credited to Hardik Soni / Hardik Graphix. No commercial outcome is claimed."
+  },
+  {
+    "slug": "forma",
+    "title": "Forma / Objects",
+    "subtitle": "One visual language. Many expressions.",
+    "category": "Creative",
+    "label": "Concept / Demo",
+    "status": "concept",
+    "published": true,
+    "type": "Visual identity exploration",
+    "problem": "An imaginary objects studio needs a coherent visual language across a catalogue, a product card and digital communications.",
+    "goal": "Create a recognizable typographic system with enough flexibility for different formats.",
+    "approach": "A restrained palette, oversized type and original geometric compositions establish rhythm. Three art-directed applications demonstrate hierarchy, spacing and consistency.",
+    "deliverables": [
+      "Three original vector compositions",
+      "Typographic and color direction",
+      "Keyboard-accessible artwork viewer"
+    ],
+    "technology": "Original SVG artwork, CSS composition, native dialog",
+    "outcome": "Not measured. Forma is a fictional concept, with no client relationship implied."
+  },
+  {
+    "slug": "your-next-approved-project",
+    "title": "Approved client project",
+    "category": "Web",
+    "status": "needs-verification",
+    "published": false,
+    "permission": "TBD",
+    "problem": "TBD",
+    "outcome": "Not measured"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "NAND Lab",
+  "tagline": "Design. Data. Digital Systems.",
+  "location": "Ahmedabad, India",
+  "canonicalOrigin": "https://nandlab.in",
+  "indexable": false,
+  "contact": {
+    "mode": "demo",
+    "endpoint": "",
+    "email": "nandlab.in@gmail.com",
+    "status": "Email verified by owner; automated delivery not configured"
+  },
+  "founder": {
+    "displayName": "Founder, NAND Lab",
+    "experience": "7+ years of MIS and data analytics experience",
+    "status": "Public name and biography need owner approval"
+  },
+  "academy": {
+    "status": "planned",
+    "proposedDomain": "learn.nandlab.in"
+  }
+}

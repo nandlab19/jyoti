@@ -1,0 +1,1 @@
+{"name":"nandlab-studio","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","dev":"node scripts/serve.mjs","test":"node scripts/check.mjs"},"engines":{"node":">=20"}}

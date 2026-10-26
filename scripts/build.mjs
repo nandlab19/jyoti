@@ -1,0 +1,28 @@
+import {readFile,writeFile,mkdir,cp,rm,lstat} from 'node:fs/promises';
+import path from 'node:path';
+import {layout,intro,serviceRows,cta,button} from '../src/components.mjs';
+import {home,work,service,caseStudy,about,contact,legal} from '../src/pages.mjs';
+const read=async name=>JSON.parse(await readFile(`content/${name}.json`,'utf8'));
+const site=await read('site'),projects=(await read('projects')).filter(p=>p.published&&p.status!=='needs-verification'),services=await read('services');
+const output=path.resolve('dist');
+if(path.dirname(output)!==process.cwd()||path.basename(output)!=='dist')throw Error('Unsafe build output');
+const outputStat=await lstat(output).catch(()=>null);
+if(outputStat?.isSymbolicLink())throw Error('Refusing to replace a linked build output');
+await rm(output,{recursive:true,force:true});
+await mkdir('dist',{recursive:true});await cp('public','dist',{recursive:true});for(const f of ['style.css','app.js','creative.css','creative.js'])await cp(`src/${f}`,`dist/${f}`);
+const routes=[];
+async function page(route,title,description,body){const dir='dist'+route;await mkdir(dir,{recursive:true});await writeFile(dir+'index.html',layout({title,description,body,route,site}));routes.push(route);}
+await page('/','Design. Data. Digital Systems.','NAND Lab is a founder-led digital solutions studio in Ahmedabad. Explore web development, data and automation, and creative design.',home(projects,services));
+await page('/work/','Work — Creative, Web & Data','Explore 58 creative projects by Hardik Soni, with motion, visual design and case studies, alongside web and data concepts.',work(projects));
+await page('/services/','Connected digital services','Web development, data, MIS and automation, and creative design for business.',intro('Our capabilities','Three disciplines.<br>One connected approach.','From the way your business is seen to the way it works behind the scenes. Start with one challenge; connect the pieces that matter.')+`<section class="wrap section no-top">${serviceRows(services)}</section>`+cta());
+for(const s of services)await page(`/services/${s.slug}/`,s.name,s.description,service(s));
+for(const p of projects)await page(`/work/${p.slug}/`,p.title+' — '+p.label,p.subtitle,caseStudy(p));
+await page('/about/','About the studio','A founder-led studio in Ahmedabad connecting business understanding with design, development and data.',about());
+await page('/start-project/','Start a project','Prepare a project brief for a website, reporting system, automation or creative design project. Preview mode; no inquiry is sent.',contact());
+for(const type of ['privacy','terms'])await page(`/${type}/`,type==='privacy'?'Privacy — preview notice':'Terms — review draft','Draft information for the NAND Lab website preview; owner review required before launch.',legal(type));
+await page('/academy/','Academy — separate learning experience','NAND Lab’s local education focus is separate from its B2B studio. The dedicated Academy website is planned.',intro('A separate NAND Lab experience','Learning has<br>its own space.','NAND Lab’s local computer education focus will have a dedicated experience. The proposed address is learn.nandlab.in; it is not launched as part of this build.')+`<section class="wrap section no-top prose"><p>Course details, schedules, fees and verified learning information will be added when confirmed. No admissions are being accepted through this preview.</p>${button('Return to the studio','/')}</section>`);
+await writeFile('dist/404.html',layout({title:'Page not found',description:'Find your way back to NAND Lab.',body:intro('404','A different direction.','This page could not be found.')+`<section class="wrap section no-top">${button('Back to the studio','/')}</section>`,route:'/404/',site}));
+await writeFile('dist/robots.txt',site.indexable?`User-agent: *\nAllow: /\nSitemap: ${site.canonicalOrigin}/sitemap.xml\n`:'User-agent: *\nDisallow: /\n');
+await writeFile('dist/sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${routes.map(r=>`<url><loc>${site.canonicalOrigin}${r}</loc></url>`).join('')}</urlset>`);
+await writeFile('dist/routes.json',JSON.stringify(routes,null,2));
+console.log(`Built ${routes.length} crawlable pages, standalone demo, 404, sitemap and local assets. Indexing: ${site.indexable?'enabled':'disabled for review'}.`);
